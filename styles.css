@@ -1,7 +1,8 @@
-*{
+body{
     font-family: Roboto;
     color: white;
     margin: 0;
+    
 } 
 
 h2{
@@ -45,6 +46,7 @@ h2{
 
 .emailBox input{
     border-radius: 5px;
+    
 }
 
 .passwordBox{
@@ -62,10 +64,12 @@ h2{
     height: 40px;
     border-radius: 20px;
     background-color: black;
+    color: white;
 }
 
 .forgotPassword{
     font-size: 10px;
+    
 }
 
 
